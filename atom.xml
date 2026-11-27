@@ -9,7 +9,23 @@
   <link href="https://blog.bu1ai.cn/atom.xml" rel="self"/>
   <rights>All rights reserved 2026, br1an</rights>
   <title>br1an's home</title>
-  <updated>2026-09-29T09:07:47.696Z</updated>
+  <updated>2026-11-20T09:40:08.669Z</updated>
+  <entry>
+    <author>
+      <name>br1an</name>
+    </author>
+    <category term="学习笔记" scheme="https://blog.bu1ai.cn/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <category term="渗透测试" scheme="https://blog.bu1ai.cn/tags/%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95/"/>
+    <category term="水一篇" scheme="https://blog.bu1ai.cn/tags/%E6%B0%B4%E4%B8%80%E7%AF%87/"/>
+    <id>https://blog.bu1ai.cn/2026/10/19/workbuddy%20study1/</id>
+    <link href="https://blog.bu1ai.cn/2026/10/19/workbuddy%20study1/"/>
+    <published>2026-10-19T04:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="Ⅰ前言"><a href="#Ⅰ前言" class="headerlink" title="Ⅰ前言"></a>Ⅰ前言</h2><p>agent已经火了好久了，但是我还没有尝试使用在渗透测试上面，后面试了下确实比自己搞厉害很多啊（虽然我很菜😭），记一下学习小记。<]]>
+    </summary>
+    <title>workbuddy study1</title>
+    <updated>2026-11-20T09:40:08.669Z</updated>
+  </entry>
   <entry>
     <author>
       <name>br1an</name>
